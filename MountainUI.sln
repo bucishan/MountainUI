@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainUI", "MountainUI\MountainUI.csproj", "{F1AB0538-5131-49E5-A4DD-00F57FEC136D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainUI.Demo", "MountainUI.Demo\MountainUI.Demo.csproj", "{14B78C71-ECF8-4767-87C9-ED1769A24E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AB0538-5131-49E5-A4DD-00F57FEC136D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AB0538-5131-49E5-A4DD-00F57FEC136D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AB0538-5131-49E5-A4DD-00F57FEC136D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AB0538-5131-49E5-A4DD-00F57FEC136D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B78C71-ECF8-4767-87C9-ED1769A24E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B78C71-ECF8-4767-87C9-ED1769A24E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B78C71-ECF8-4767-87C9-ED1769A24E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B78C71-ECF8-4767-87C9-ED1769A24E23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56E996AF-1386-424F-A87F-E8797D815D05}
+	EndGlobalSection
+EndGlobal
